@@ -1,0 +1,11 @@
+.coverage
+.dockerignore
+.git/
+.github/
+.gitignore
+.idea/
+.pytest_cache/
+.tox/
+coverage.xml
+Dockerfile
+venv/

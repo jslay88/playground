@@ -39,7 +39,7 @@ test = [
 Source = "https://github.com/jslay88/playground"
 
 [project.scripts]
-hello_world = "hello_world.main:hello_world"
+hello_world = "playground.main:hello_world"
 
 [tool.black]
 line-length = 88

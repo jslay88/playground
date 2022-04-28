@@ -1,7 +1,7 @@
 import io
 from unittest.mock import patch
 
-from hello_world.main import hello_world
+from playground.main import hello_world
 
 
 def test_hello_world():
